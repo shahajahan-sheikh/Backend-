@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:black;
+}
+
+h1{
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+#chan{
+    text-align: center;
+}
